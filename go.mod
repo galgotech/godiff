@@ -1,3 +1,3 @@
-module github.com/galgotech/godiff
+module github.com/galgotech/gotools
 
 go 1.19

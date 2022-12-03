@@ -4,13 +4,13 @@
 
 // Package difftest supplies a set of tests that will operate on any
 // implementation of a diff algorithm as exposed by
-// "github.com/galgotech/godiff/diff"
+// "github.com/galgotech/gotools/diff"
 package difftest
 
 import (
 	"testing"
 
-	"github.com/galgotech/godiff/diff"
+	"github.com/galgotech/gotools/diff"
 )
 
 const (

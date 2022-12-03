@@ -8,7 +8,7 @@ package myers
 import (
 	"strings"
 
-	"github.com/galgotech/godiff/diff"
+	"github.com/galgotech/gotools/diff"
 )
 
 // Sources:
